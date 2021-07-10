@@ -181,10 +181,11 @@ function esPositivo(numero) {
 
   if (numero > 0){
     return pos;
-  }else{
-    return neg
   }
-return false
+  if (numero < 0){
+    return neg;
+  }
+  return false;
 }
 
 function agregarSimboloExclamacion(str) {
