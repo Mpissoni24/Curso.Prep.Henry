@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+    margin: 40px;
+    font-family: verdana;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    
+    font-size: 20px;
+  }
+  img{
+      width: 250px;
+  }
+
+  .margin{
+      border-style:double;
+      margin: 40px 0px;
+      width: 400px;
+      border: 15px;
+      border-style: groove;
+      padding: 50px;
+      justify-content: space-between;
+  }
+
+  
