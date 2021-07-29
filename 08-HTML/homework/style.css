@@ -1,35 +1,24 @@
 h1 {
-    color: aquamarine;
+    color: red;
 }
 
-img {
+img{
     width: 400px;
-    height: 400px;
 }
 
-#thirdDiv {
-    
-    width: 500px;
-    background: #3b453f;
+#thirdDiv{
+    background-color: green;
+    height: 804px;
+    width: 600px;
     padding: 50px;
-    border: solid rgba(0, 0, 0, 0.842);
-    display: flex;
+    border: 10px solid black;
 }
 
-#spanId {
-    font-size: 18px;
+#spanId{
+    font-size: 25px;
     margin: 50px;
 
 }
-
-.background {
-    background-image: url(https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80);
-    background-size: 100% ;
-    color: rgba(255, 255, 255, 0.993);
-    
-    
-}
-
 
 
 
